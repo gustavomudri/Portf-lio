@@ -14,7 +14,7 @@
 ## Projetos:
 **Projetos feitos ao estudar pela  Sigmoidal:**
 
-**Projetos feitos individual :**
+**Projetos feitos individualmente :**
 
 **Projetos que trabalhei na UFSC :**
 
