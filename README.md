@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="banner_git.png" >
+  <img src="banner git.png" >
 </p>
 
 # Gustavo mudri
