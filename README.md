@@ -12,11 +12,11 @@
 * [LinkedIn](https://www.linkedin.com/in/gustavo-mudri-72163a197/)
 
 ## Projetos:
-Projetos feitos ao estudar pela  Sigmoidal:
+**Projetos feitos ao estudar pela  Sigmoidal:**
 
-Projetos feitos individual : 
+**Projetos feitos individual : **
 
-Projetos que trabalhei na UFSC :
+**Projetos que trabalhei na UFSC :**
 
 ---
 
